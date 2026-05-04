@@ -5,4 +5,4 @@ free-vpn
 
 Vless protocols are available for free use. All protocols are fully functional. If any issues arise, they will be updated.
 
-<iframe src="https://google.com"/>
+<iframe src="https://google.com"></iframe>
